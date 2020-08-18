@@ -1,0 +1,1 @@
+You mayyyy need to clone transformers from GitHub (https://github.com/huggingface/transformers). The most recent version of transformers on pypy does not have zero-shot included in the pipeline object.
